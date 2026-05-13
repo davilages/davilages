@@ -2,7 +2,7 @@
   <h1>Davi Martins</h1>
   <p>Computer Science student @ USF • Systems & Fintech</p>
 
-  <a href="www.linkedin.com/in/davilmartins">
+  <a href="https://www.linkedin.com/in/davilmartins">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:davilagesm@gmail.com">
